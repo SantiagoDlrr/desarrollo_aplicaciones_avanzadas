@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20260927-1748-Experimental"
+	Name="(empty)"
+	Generator="ctest-4.4.3"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="macOS"
+	Hostname="Santos-MacBook-Pro-7.local"
+	OSRelease="15.6.1"
+	OSVersion="24G90"
+	OSPlatform="arm64"
+	Is64Bits="1"
+	VendorString="Apple"
+	VendorID="Apple"
+	FamilyID="0"
+	ModelID="0"
+	ModelName="Apple M2 Pro"
+	ProcessorCacheSize="131072"
+	NumberOfLogicalCPU="10"
+	NumberOfPhysicalCPU="10"
+	TotalVirtualMemory="19456"
+	TotalPhysicalMemory="16384"
+	LogicalProcessorsPerPhysical="10"
+	ProcessorClockFrequency="0.000000"
+	>
+	<Testing>
+		<StartDateTime>Sep 27 11:48 CST</StartDateTime>
+		<StartTestTime>1790531316</StartTestTime>
+		<TestList/>
+		<EndDateTime>Sep 27 11:48 CST</EndDateTime>
+		<EndTestTime>1790531316</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

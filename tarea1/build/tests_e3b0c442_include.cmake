@@ -1,0 +1,5 @@
+if(EXISTS "/Users/santobenitez/Documents/desarrollo_aplicaciones_avanzadas/tarea1/build/tests_e3b0c442_tests.cmake")
+  include("/Users/santobenitez/Documents/desarrollo_aplicaciones_avanzadas/tarea1/build/tests_e3b0c442_tests.cmake")
+else()
+  add_test(tests_NOT_BUILT tests_NOT_BUILT)
+endif()

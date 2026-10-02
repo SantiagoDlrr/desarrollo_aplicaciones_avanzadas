@@ -1,0 +1,39 @@
+{
+  "tests": 3,
+  "name": "AllTests",
+  "testsuites": [
+    {
+      "name": "StackTest",
+      "tests": 1,
+      "testsuite": [
+        {
+          "name": "BasicOperations",
+          "file": "\/Users\/santobenitez\/Documents\/desarrollo_aplicaciones_avanzadas\/tarea1\/tests.cc",
+          "line": 11
+        }
+      ]
+    },
+    {
+      "name": "QueueTest",
+      "tests": 1,
+      "testsuite": [
+        {
+          "name": "BasicOperations",
+          "file": "\/Users\/santobenitez\/Documents\/desarrollo_aplicaciones_avanzadas\/tarea1\/tests.cc",
+          "line": 34
+        }
+      ]
+    },
+    {
+      "name": "UnorderedMap",
+      "tests": 1,
+      "testsuite": [
+        {
+          "name": "BasicOperations",
+          "file": "\/Users\/santobenitez\/Documents\/desarrollo_aplicaciones_avanzadas\/tarea1\/tests.cc",
+          "line": 57
+        }
+      ]
+    }
+  ]
+}
